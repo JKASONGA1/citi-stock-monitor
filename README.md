@@ -109,6 +109,6 @@ This project was built as part of a four-task simulation of Citi's Technology An
 
 ## 👤 Author
 
-**John Smith**
+**John Kasonga**
 Cybersecurity Graduate — SMU Bootcamp
 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
